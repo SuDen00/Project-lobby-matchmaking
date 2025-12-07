@@ -1,0 +1,60 @@
+# ========== UNITY GENERATED ==========
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+sysinfo.txt
+.utmp/
+*.unitypackage
+*.unitypackage.meta
+
+# ========== CRASHES & DEBUG ==========
+[Mm]emoryCaptures/
+[Rr]ecordings/
+*.pidb
+*.pdb
+*.mdb
+*.booproj
+*.svd
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+crashlytics-build.properties
+
+# ========== IDE & PLATFORM ==========
+.vs/
+.vscode/
+.gradle/
+ExportedObj/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+
+# ========== OS FILES ==========
+.DS_Store
+Thumbs.db
+
+# ========== ANDROID/iOS BUILDS ==========
+*.apk
+*.aab
+*.app
+
+# ========== ADDRESSABLES ==========
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+/[Aa]ssets/[Ss]treamingAssets/aa.meta
+/[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# ========== OPTIONAL (РАСКОММЕНТИРУЙ ПРИ НУЖДЕ) ==========
+# /[Aa]ssets/AssetStoreTools*
+# /[Aa]ssets/Plugins/Editor/JetBrains*
+# /Build/
