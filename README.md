@@ -31,8 +31,8 @@
 2.3. Модель в нотации IDEF0 (с комментариями) - [IDEF0 model](docs/03-idef0-notes.md)  
 2.4. Фрагменты модели в нотации DFD (с комментариями) - [DFD fragments](docs/04-dfd-notes.md)  
 2.5. Модель в нотации BPMN (с комментариями) - [BPMN model](docs/05-bpmn-notes.md)  
-2.6. Модели в нотации UML (структурные и поведенческие диаграммы) - [UML diagrams](docs/06-uml.md)  
-2.7. ER-диаграмма - [ER diagram](docs/07-er.md)
+2.6. Модели в нотации UML (структурные и поведенческие диаграммы) - [UML diagrams](06-uml.md)  
+2.7. ER-диаграмма - [ER diagram](07-er.md)
 
 
 ## 3. Database (PostgreSQL)
